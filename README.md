@@ -1,2 +1,3 @@
 # digital-ad-campaigns-to-maximize-Return-on-Investment-
+Marketing campaigns are a crucial part of any business strategy, but not all campaigns generate the expected return on investment (ROI). Companies often struggle to determine which campaigns, channels, and audience segments yield the best results and which ones lead to budget inefficiencies. Without proper data analysis, businesses risk overspending on low-performing ads and missing opportunities to scale high-performing ones.
 The objective of this project is to analyze the performance of various marketing campaigns across multiple channels to determine which campaigns yield the highest return on investment (ROI) and conversion rates
